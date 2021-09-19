@@ -11,9 +11,8 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://user-images.githubusercontent.com/37083709/133946042-a9613958-4274-44cc-a11b-879d69449a8a.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 # Tecnologias utilizadas
 ## Back end
