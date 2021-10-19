@@ -7,7 +7,7 @@ https://ds-vendas-arcangelo.netlify.app
 
 Ds vendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em vendas por vendedores e depois são listados na web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 
 ## Layout web
